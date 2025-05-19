@@ -1,9 +1,5 @@
 ## [Enhancing Clinical Decision Support with Physiological Waveforms — A Multimodal Benchmark in Emergency Care](https://www.sciencedirect.com/science/article/pii/S0010482525005475)
 
-**Accepted by _Computers in Biology and Medicine_**
-
-[![ScienceDirect](https://img.shields.io/badge/ScienceDirect-Read%20the%20paper-green)](https://www.sciencedirect.com/science/article/pii/S0010482525005475)
-[![arXiv](https://img.shields.io/badge/arXiv-2407.17856-b31b1b.svg)](https://arxiv.org/abs/2407.17856)
 
 
 ## Clinical Setting
